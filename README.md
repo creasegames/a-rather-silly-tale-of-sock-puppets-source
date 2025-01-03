@@ -10,4 +10,5 @@ just run the build_desktop.sh or .bat for windows-folk
 
 ## other notes
 **please don't publically redistribute source code or game files, only share the link please**
+
 this source code is using [this](https://github.com/karl-zylinski/odin-raylib-web) web template
